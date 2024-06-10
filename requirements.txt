@@ -1,0 +1,5 @@
+Flask==2.3.2
+Flask-Cors==3.0.10
+SpeechRecognition==3.8.1
+spacy==3.5.2
+en_core_web_sm==3.5.0
